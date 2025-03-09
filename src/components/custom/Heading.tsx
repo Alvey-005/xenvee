@@ -9,7 +9,7 @@ const Heading = () => {
     >
       <MyLinks />
       <div className="flex gap-2 items-center mt-1.5 md:mt-0" >
-      <OutlineButton onClick={() => window.open("https://docs.google.com/document/d/1S3fzWi2buW3EEXoMcTpjvYUi4ryt_2xBLgOc5PsDZI8/edit?usp=sharing")}>
+      <OutlineButton onClick={() => {}}>
         My resume
       </OutlineButton>
       <OutlineButton onClick={() => window.location.href = '/#contact'}>

@@ -1,7 +1,7 @@
 const professional_work = [
     {
-      company: "Tero Labs LLC",
-      href: "https://atomic.finance",
+      company: " Labs LLC",
+      href: "",
       badges: [],
       location: "Santa Carla, USA",
       title: "Blockchain Engineer",
