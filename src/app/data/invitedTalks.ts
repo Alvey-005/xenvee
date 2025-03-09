@@ -2,7 +2,7 @@ const ECActivites = [
     {
       title:
         "A Blockchain based Decentralized Video Streaming Platform with Content Protection System",
-      authors: "Suvadra Barua, Dipon Talukder",
+      authors: "Xenvee Barua, Dipon Talukder",
       journal:
         "23rd International Conference on Computer and Information Technology (ICCIT)",
       year: 2020,
@@ -11,7 +11,7 @@ const ECActivites = [
     {
       title:
         "OkkhorNama: BdSL Image Dataset For Real Time Object Detection Algorithms",
-      authors: "Dipon Talukder, Fatima Jahara, Suvadra Barua, Md. Mokammel Haque",
+      authors: "Dipon Talukder, Fatima Jahara, Xenvee Barua, Md. Mokammel Haque",
       journal: "IEEE Region 10 Symposium (TENSYMP)",
       year: 2021,
       doi: "10.1109/TENSYMP52854.2021.9550907",

@@ -99,7 +99,7 @@ export default function ContactSection() {
                   Email address
                 </h3>
                 <p className="text-gray-600 dark:text-slate-400">
-                suvadrabarua21@gmail.com                </p>
+                Xenveebarua21@gmail.com                </p>
                 {/* <p className="text-gray-600 dark:text-slate-400">
                   dipon@workera.ai
                 </p>

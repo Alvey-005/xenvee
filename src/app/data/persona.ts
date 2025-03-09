@@ -1,4 +1,4 @@
-const title = "Suvadra Barua";
+const title = "Xenvee Barua";
 const position = "Software Engineer";
 const aboutme =
   "With over 2 years of experience in designing, developing, and deploying decentralized applications (DApps) on Celo, Ethereum, and other blockchain platforms, my approach to project selection is centered around continuous learning and adaptability. I don't limit myself to projects based solely on existing knowledge; instead, I actively seek opportunities for acquiring new skills and insights. I engage in frontend, backend, ML etc. development tasks, demonstrating a willingness to explore and learn new areas. While I may not consider myself a pro in every aspect, I thrive on the challenge of mastering new technologies. Additionally, I have a proven ability to mentor and educate others about blockchain technology and smart contracts";

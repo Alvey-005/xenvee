@@ -16,8 +16,8 @@ const HomeBanner = () => {
       <div className="relative lg:w-2/5 flex justify-center lg:justify-end  items-center order-1 lg:order-2">
         <Image
           className="rounded-full border-4 border-dotted border-black bg-earth-300 md:mt-20"
-          src="/Suvadra_cool.png"
-          alt="Suvadra Barua"
+          src="/Xenvee_cool.png"
+          alt="Xenvee Barua"
           width={300}
           height={300}
         />
